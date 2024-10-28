@@ -1,2 +1,4 @@
-#ignoring to .temp extension file
+#ignoring file
 *.temp
+bin/
+obj/
